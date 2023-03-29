@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yagyansh Bagri</h1>
 <h3 align="center">A Data Analyst who enjoys solving problems and embracing different challenges.</h3>
 
-<p align="left"> <a href="https://twitter.com/@yagyansh" target="blank"><img src="https://img.shields.io/twitter/follow/@yagyansh?logo=twitter&style=for-the-badge" alt="@yagyansh" /></a> </p>
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **Tableau & Advanced Concepts of Machine Learning**
 
-- 💬 Ask me about **Data Analysis, Python & Interview Prep**
+- 💬 Ask me about **Data Analysis, Python & Interview Preparation**
 
 - 📫 How to reach me **ybagri@hotmail.com**
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Yagyanshb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yagyansh" height="30" width="40" /></a>
+<a href="https://twitter.com/YagyanshB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yagyansh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yagyansh bagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagyansh bagri" height="30" width="40" /></a>
 </p>
 
