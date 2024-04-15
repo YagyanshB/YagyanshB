@@ -35,8 +35,9 @@
 ---
 
 ### 💼 Professional Experience:
+- Currently working as an **Educational Quality Analyst, Imperial College London**: I am collaborating with the School of Medicine & NHS.
 - **Principal Statistician, UK Civil Service**: Spearheaded data analytics strategies, resulting in significant cost savings and enhanced data-driven decision-making.
-**Data Quality Analyst, LSE**: I implemented advanced data integrity and ETL monitoring techniques that improved system performance and data accuracy.
+- **Data Quality Analyst, LSE**: I implemented advanced data integrity and ETL monitoring techniques that improved system performance and data accuracy.
 
 ---
 
