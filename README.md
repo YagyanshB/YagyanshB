@@ -16,7 +16,7 @@
 ### 📫 How to reach me:
 - Email: ybagri@hotmail.com
 - LinkedIn: [Yagyansh Bagri](https://www.linkedin.com/in/ybagri/)
-- X: [@YagyanshB] (https://twitter.com/YagyanshB)
+- X: [@YagyanshB](https://www.twitter.com/in/YagyanshB/)
 
 ### ⚡ Fun fact:
 - I am an avid skydiver and enjoy participating in hackathons and marathons!
