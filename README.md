@@ -2,7 +2,9 @@
 <h3 align="center">🚀 Data Science Maverick | Machine Learning Enthusiast | Data Visualization Expert 🚀</h3>
 
 <p align="center">
-  I am a seasoned Data Analyst and Data Science professional with extensive experience in machine learning, predictive analytics, and transforming complex data into actionable insights. I am passionate about using data to solve real-world problems and dedicated to lifelong learning in advanced analytics.
+  I am a curious Data Scientist with extensive experience in machine learning, predictive analytics, and transforming complex data into actionable insights. I am passionate about using data to solve real-world problems. This passion was generated from a famous dialogue by **Steve Jobs**.
+
+  **You are here to make a dent in the universe.**
 </p>
 
 ---
@@ -11,14 +13,15 @@
 - Mastering **Advanced Machine Learning Techniques** and **AWS** to enhance my data visualization skills.
 
 ### 💬 Ask me about:
-- **Advanced Data Analytics, Python, R, SQL, Big Data Technologies, and Interview Preparation**. I'm here to help!
+- **Advanced Data Analytics, Python, R, SQL, Big Data Technologies, and Interview Preparation**. I'm here to share my learnings, tips and techniques!
 
 ### 📫 How to reach me:
 - Email: ybagri@hotmail.com
 - LinkedIn: [Yagyansh Bagri](https://www.linkedin.com/in/ybagri/)
+- X: https://twitter.com/YagyanshB
 
 ### ⚡ Fun fact:
-- I am an avid skydiver and enjoy participating in hackathons and model optimization sprints!
+- I am an avid skydiver and enjoy participating in hackathons and marathons!
 
 ---
 
