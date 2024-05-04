@@ -16,7 +16,7 @@
 ### 📫 How to reach me:
 - Email: ybagri@hotmail.com
 - LinkedIn: [Yagyansh Bagri](https://www.linkedin.com/in/ybagri/)
-- X: [@YagyanshB](https://www.twitter.com/in/YagyanshB/)
+- Personal Website: https://shorturl.at/abmF4
 
 ### ⚡ Fun fact:
 - I am an avid skydiver and enjoy participating in hackathons and marathons!
@@ -36,7 +36,7 @@
 ---
 
 ### 💼 Professional Experience:
-- Currently working as an **Educational Quality Analyst, Imperial College London**: I am collaborating with the School of Medicine & NHS.
+- Currently working as an **Educational Quality Analyst, Imperial College London**: where I am collaborating with the School of Medicine & the NHS.
 - **Principal Statistician, UK Civil Service**: Spearheaded data analytics strategies, resulting in significant cost savings and enhanced data-driven decision-making.
 - **Data Quality Analyst, LSE**: I implemented advanced data integrity and ETL monitoring techniques that improved system performance and data accuracy.
 
@@ -48,6 +48,6 @@
 ---
 
 ### 🌟 Featured Projects:
-- **Cryptocurrency Sentiment Analysis**: Developed an NLP model to analyze sentiments from tweets and predict market trends, achieving 82% accuracy.
+- **Cryptocurrency Sentiment Analysis**: I developed an NLP model to analyze sentiments from tweets and predict market trends, achieving an accuracy of 82%.
 - **Customer Churn Prediction**: Utilized logistic regression to predict customer churn from telecom data, achieving 75% precision and 82% recall.
 
