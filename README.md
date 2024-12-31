@@ -38,7 +38,7 @@
 ### 🎓 Education:
 - **BSc Honours in Data Analytics**, University of Strathclyde - Glasgow
 - **ISC Science**, Sarala Birla Academy - Bengaluru 
-- **CSBSE**, Birla Public School - Pilani
+- **CBSE Science**, Birla Public School - Pilani
 
 ---
 
