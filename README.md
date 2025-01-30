@@ -31,7 +31,8 @@
 ### 💼 Professional Experience:
 - **Data Analyst - Education and Patient Quality, Imperial College London**: Collaborated with the School of Medicine and NHS Trusts to improve how data is leveraged and implement meaningful decision-making.
 - **Statistician, UK Civil Service**: Spearheaded data analytics strategies, resulting in significant cost savings and enhanced data-driven decision-making.
-- **Data Quality Analyst, LSE**: I implemented advanced data integrity and ETL monitoring techniques that improved system performance and data accuracy.
+- **Data Quality Analyst, LSE**: Implemented advanced data integrity and ETL monitoring techniques that improved system performance and data accuracy.
+- **Crypto Data Analyst, Data Direct Networks**: Developed a machine learning model to streamline social media sentiment from **X (formerly known as Twitter)** to predict the prices of cryptocurrencies, in particular **BitCoin**.
 
 ---
 
