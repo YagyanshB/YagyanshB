@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Yagyansh Bagri</h1>
-<h3 align="center">🚀 Data Science Maverick | Machine Learning Enthusiast | Data Visualization Expert 🚀</h3>
+<h3 align="center"> Data Scintist leveraging IQ and EQ</h3>
 
 <p align="center">
   I am a curious Data Scientist with extensive experience in machine learning, predictive analytics, and transforming complex data into actionable insights. I am passionate about using data to solve real-world problems, and Steve Jobs's famous dialogue generated this passion: You are here to make a dent in the universe.
