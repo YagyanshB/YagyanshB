@@ -17,6 +17,8 @@
 - Email: ybagri@hotmail.com
 - LinkedIn: [Yagyansh Bagri](https://www.linkedin.com/in/ybagri/)
 - Personal Website: https://shorturl.at/abmF4
+- Twitter: @YagyanshB
+- YouTube: The Data Guy | https://www.youtube.com/@YagyanshB
 
 ### ⚡ Fun fact:
 - I am an avid skydiver and enjoy participating in hackathons and marathons!
