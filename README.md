@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hello, I'm Yagyansh Bagri</h1>
 
 <p align="center">
-  I am a curious Data Scientist with extensive experience in machine learning, predictive analytics, and transforming complex data into actionable insights. I am passionate about using data to solve real-world problems, and Steve Jobs's famous dialogue generated this passion: You are here to make a dent in the universe.
+  I have worked in the data science and analytics industry for over four years. My most valuable learnings have been tapping into my curious and collaborative nature, which has allowed me to have a successful track record in sectors such as healthcare, higher education, and finance.
 </p>
 
 ---
 
-### 🌱 What I’m currently learning:
+### 🌱 What I’m currently working towards:
 - Mastering **Advanced Machine Learning Techniques** and **AWS** to enhance my data visualization skills.
 - Creating **YouTube Tutorials in SQL and Python** to share my learning and help others get on the data science and analytics journey.
+- Ideating **Start-up Ideas leveraging AI and LLM models**; please note that I am not thinking about this just for the sake of it.
 
 ### 💬 Ask me about:
 - **Advanced Data Analytics, Python, R, SQL, Big Data Technologies, and Interview Preparation**. I'm here to share what I have learned and tips and techniques!
@@ -21,7 +22,9 @@
 - YouTube: **The Data Guy** - https://www.youtube.com/@YagyanshB
 
 ### ⚡ Fun fact:
-- I am an avid skydiver and enjoy participating in hackathons and marathons!
+- I am an avid skydiver and enjoy participating in hackathons and marathons
+- I ran from Canary Wharf to London Heathrow Terminal 4 in 4 hours and 9 minutes - a distance of 32.70km
+- I am hoping to raise £500,000 by swimming across the English Channel
 
 ---
 
