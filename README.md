@@ -7,12 +7,12 @@
 ---
 
 ### 🌱 What I’m currently working towards:
-- Mastering **Advanced Machine Learning Techniques** and **AWS** to enhance my data visualization skills.
+- Mastering **Advanced Machine Learning Techniques**, **Stakeholder/Team Management** and **Microsoft Azure** to enhance my data science and analytics expertise.
 - Creating **YouTube Tutorials in SQL and Python** to share my learning and help others get on the data science and analytics journey.
 - Ideating **Start-up Ideas leveraging AI and LLM models**; please note that I am not thinking about this just for the sake of it.
 
 ### 💬 Ask me about:
-- **Advanced Data Analytics, Python, R, SQL, Big Data Technologies, and Interview Preparation**. I'm here to share what I have learned and tips and techniques!
+- **Advanced Data Analytics, Python, R, SQL, Big Data Technologies, and Interview Preparation**. I'm here to share what I have learned, tips, and techniques!
 
 ### 📫 How to reach me:
 - Email: ybagri@hotmail.com
@@ -29,10 +29,11 @@
 ---
 
 ### 💼 Professional Experience:
-- **Data Analyst - Clinical and Education Quality, Imperial College London**: Collaborated with the School of Medicine and NHS Trusts to improve how data is leveraged and implement meaningful decision-making.
+- **Lead Data Scientist, Mid Yorkshire Teaching NHS Trust**: Leveraging data to save lives and streamline operations.
+- **Data Analyst - Education Quality, Imperial College London**: Collaborated with the School of Medicine and NHS Trusts to improve how data is leveraged and implement meaningful decision-making.
 - **Data Scientist, Datacove Ltd**: Spearheaded data analytics strategies, resulting in significant cost savings and enhanced data-driven decision-making.
 - **Product and Data Analyst, Rakuten Inc**: Implemented advanced data science techniques that reduced customer churn and increased revenue.
-- **Crypto Data Analyst, Data Direct Networks**: Developed a machine learning model to streamline social media sentiment from **X** (formerly known as Twitter) to predict the prices of cryptocurrencies, in particular **BitCoin**.
+- **Crypto Data Analyst, Data Direct Networks**: Developed a machine learning model to streamline social media sentiment from **X** (formerly known as Twitter) to predict the prices of cryptocurrencies, in particular **Bitcoin**.
 
 ---
 
@@ -44,6 +45,6 @@
 ---
 
 ### 🌟 Featured Projects:
-- **Cryptocurrency Sentiment Analysis**: I developed an NLP model to analyze sentiments from tweets and predict market trends, achieving an accuracy of 82%.
-- **Customer Churn Prediction**: Utilized logistic regression to predict customer churn from telecom data, achieving 75% precision and 82% recall.
+- **Cryptocurrency Sentiment Analysis**: I developed an NLP model to analyse sentiments from tweets and predict market trends, achieving an accuracy of 82%.
+- **Customer Churn Prediction**: Utilised logistic regression to predict customer churn from telecom data, achieving 75% precision and 82% recall.
 
