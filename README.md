@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-I have worked in the **Data Science & Analytics** industry for over four years. My approach combines technical rigor with curiosity, allowing me to build successful AI solutions for the **NHS, Imperial College London, and Rakuten**.
+I have worked in the **Data Science & Analytics** industry for over five years. My approach combines technical rigour with curiosity, allowing me to build successful AI solutions for the **NHS, Imperial College London, and Rakuten**.
 
 - 🔭 **Currently Working on:** Mastering MLOps on **Microsoft Azure** & building **Start-up ideas** leveraging LLMs.
-- 📹 **Content Creation:** Teaching SQL & Python on my [YouTube Channel](https://www.youtube.com/@YagyanshB).
+- 📹 **Content Creation:** Teaching SQL & Python on my [YouTube Channel](https://www.youtube.com/@datasciencewithyagyansh).
 - 💬 **Ask Me About:** Advanced Analytics, R, Big Data, and Data Science Interview Prep.
 
 ---
