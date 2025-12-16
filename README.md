@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F7&center=true&vCenter=true&width=535&lines=Hi+there!+I'm+Yagyansh+Bagri;Lead+Data+Scientist+%40+NHS;Marathon+Runner+%26+Skydiver;Building+AI+for+Healthcare" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F7&center=true&vCenter=true&width=535&lines=Hi+there!+I'm+Yagyansh+Bagri;Lead+Data+Scientist+%40+NHS;Marathon+Runner+%26+Skydiver;Building+Responsible AI+for+Healthcare" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -8,9 +8,6 @@
     </a>
     <a href="https://www.youtube.com/@YagyanshB">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/YagyanshB">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="mailto:ybagri@hotmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -62,9 +59,9 @@ I have worked in the **Data Science & Analytics** industry for over four years. 
 
 | Role | Organization | Impact |
 | :--- | :--- | :--- |
-| **Lead Data Scientist** | 🏥 **NHS Trust** | Leveraging data to save lives and streamline hospital operations. |
+| **Lead Data Scientist** | 🏥 **Mid Yorkshire Teaching NHS Trust** | Leveraging data to save lives and streamline hospital operations. |
 | **Data Analyst** | 🎓 **Imperial College** | Collaborated with the School of Medicine to implement data-driven decision-making. |
-| **Founding DS** | 📊 **Datacove Ltd** | Spearheaded analytics strategies resulting in significant cost savings. |
+| **Founding Data Scientist** | 📊 **Datacove Ltd** | Spearheaded analytics strategies resulting in significant cost savings. |
 | **Product Analyst** | 🛍️ **Rakuten Inc** | Implemented advanced DS techniques to reduce churn and increase revenue. |
 | **Crypto Analyst** | 🪙 **Data Direct** | Built ML models to predict Bitcoin prices using X (Twitter) sentiment. |
 
