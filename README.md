@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Lead Data Scientist | Healthcare, Finance & EdTech Specialist</b><br>
+  <b>Lead Data Scientist and Machine Learning Enthusiast</b><br>
   I leverage data to save lives, streamline operations, and drive revenue.
 </p>
 
