@@ -50,3 +50,4 @@
 
 *   🏊 **The Big Goal:** Training to swim the **English Channel** solo to raise £500,000 for Men's Mental Health.
 *   🏃 **Endurance:** Ran 32.7km (Canary Wharf to Heathrow) in **4h 37m**.
+*   🏃 **Endurance:** Ran 23.4km (Walthamstow to Brixton) the length of the Victoria Line in **2h 56m**.
